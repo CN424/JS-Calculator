@@ -1,0 +1,193 @@
+body{
+
+}
+
+#calculator{
+	padding: 1px;
+	background-color: white;
+	margin-top: 50px;
+	margin-left: 450px;
+	border: 1px solid black;
+	border-radius: 8px;
+	width: 345px;
+}
+
+#screen{
+	background-color: black;
+	padding: 45px;
+	color: white;
+	text-align: right;
+	font-size: 30px;
+}
+
+.numbers{
+	width: 1000px;
+}
+
+#button1{
+	background-color: gray;
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: 0px;
+	margin-right: -6px;
+}
+
+#button2{
+background-color: gray;
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-right: -6px;
+}
+
+#button3{
+background-color: gray;
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-right: -6px;
+	margin-left: 0px;
+}
+
+#button4{
+background-color: gray;
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+#button5{
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: 0px;
+}
+
+#button6{
+	border: 1px solid black;
+	padding-left: 38px;
+	padding-right: 38px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -5px;
+	margin-right: -4px;
+}
+
+#button7{
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 39px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -1px;
+	margin-right: -5px;
+}
+
+#button8{
+	background-color: orange;
+	border: 1px solid black;
+	padding-bottom: 167px;
+	padding-top: 167px;
+	padding-right: 37px;
+	padding-left: 40px;
+	float: right;
+	margin-right: 655px;
+}
+
+#button9{
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: 0px;
+}
+
+#button10{
+	border: 1px solid black;
+	padding-left: 38px;
+	padding-right: 38px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -5px;
+	margin-right: -4px;
+}
+
+#button11{
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 39px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -1px;
+	margin-right: -5px;
+}
+
+#button12{
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: 0px;
+}
+
+#button13{
+	border: 1px solid black;
+	padding-left: 38px;
+	padding-right: 38px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -5px;
+	margin-right: -4px;
+}
+
+#button14{
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 39px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -1px;
+	margin-right: -5px;
+}
+
+#button15{
+	border: 1px solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: 0px;
+}
+
+#button16{
+	border: 1px solid black;
+	padding-left: 39px;
+	padding-right: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -5px;
+	margin-right: -4px;
+}
+
+#button17{
+	border: 1px solid black;
+	padding-left: 34px;
+	padding-right: 34px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	margin-left: -1px;
+	margin-right: -5px;
+}
